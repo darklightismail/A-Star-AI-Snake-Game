@@ -29,6 +29,7 @@ The game contains a:
 ![Picture8](https://user-images.githubusercontent.com/47457939/183465243-b5355078-9d51-4f94-8c98-e77b0a3c9bc3.png)
 
 - Dead Snake Screen :
+
 ![Picture9](https://user-images.githubusercontent.com/47457939/183465210-cad0b4b6-d4da-4cc2-a922-1d67b865894c.jpg)
 
 - Confirming Quitting the game Screen :
