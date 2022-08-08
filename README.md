@@ -1,9 +1,9 @@
 # A star Snake-Game
 
-# OBJECTIVE:
+# OBJECTIVES :
 The game SNAKE aims to be played normally by any player: against the PC or a friend.
 Also to be played by an AI that uses the A* algorithm to avoid touching obstacles and get to the fruit without the help of a person. The game becomes autonomous in this case.
-# VISUAL ASPECT:
+# VISUAL ASPECT :
 The game contains a:
                                    +Welcome interface
                                    +General menu
@@ -43,4 +43,4 @@ The game contains a:
 # Feel free to fork and Improve it in your own unique way.
 Stay Curious.
 
-wroted by Darklight-Ismail.
+Written by Darklight-Ismail.
