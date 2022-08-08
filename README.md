@@ -36,7 +36,7 @@ The game contains a:
 
 ![Picture10](https://user-images.githubusercontent.com/47457939/183465215-59a90c9e-f751-4437-be9e-2e0e73192317.jpg)
 
-- How does A star algorithm works ? 
+# How does A star algorithm works ? 
 
 ![Picture11](https://user-images.githubusercontent.com/47457939/183465220-608942ce-44bc-448f-8531-cdf5a4d3a03e.png)
 
