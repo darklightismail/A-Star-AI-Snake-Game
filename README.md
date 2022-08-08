@@ -1,4 +1,4 @@
-# A-Snake-Game
+# A star Snake-Game
 
 # OBJECTIVE:
 The game SNAKE aims to be played normally by any player: against the PC or a friend.
